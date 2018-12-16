@@ -25,7 +25,7 @@ SECRET_KEY = '%4rjtl6v9*3l4&v9!cv8wnm14_^rp^wl9f-9-brxce*hf&84%5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://impravin181.pythonanywhere.com/']
 
 
 # Application definition
